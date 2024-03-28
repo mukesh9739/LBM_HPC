@@ -1,6 +1,4 @@
-# Let's try again to create the README.md file with the provided content.
 
-readme_content = """
 # Lattice Boltzmann Method Simulations
 
 This project contains Python scripts to simulate fluid dynamics problems using the Lattice Boltzmann Method (LBM). It includes simulations for different flow scenarios, such as Couette flow, Poiseuille flow, and a sliding lid problem, both in single-processor and MPI-based parallel computing environments.
