@@ -1,0 +1,660 @@
+
+Currently Loaded Modules:
+  1) devel/python/3.8.6_gnu_10.2   2) compiler/gnu/10.2   3) mpi/openmpi/4.1
+
+ 
+
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:83760] 3 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:83760] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:83871] 15 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:83871] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:84054] 24 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:84054] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:84310] 63 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:84310] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:84864] 99 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:84864] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n627
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:85398] 399 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:85398] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n624
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:85938] 624 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:85938] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n630
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:86464] 1599 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:86464] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n632
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:87002] 1994 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:87002] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[uc2n621.localdomain:87002] 505 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:87550] 3 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:87550] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:87740] 15 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:87740] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:87930] 24 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:87930] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:88191] 63 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:88191] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:88742] 99 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:88742] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n624
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:89278] 255 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:89278] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n627
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:89819] 399 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:89819] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n625
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:90357] 624 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:90357] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n640
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:90890] 1599 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:90890] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n834
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:91436] 2053 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:91436] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[uc2n621.localdomain:91436] 446 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:91995] 3 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:91995] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:92310] 8 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:92310] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:92540] 15 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:92540] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:92769] 24 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:92769] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:93064] 35 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:93064] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:93396] 63 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:93396] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n622
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:93958] 99 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:93958] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n623
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:94507] 143 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:94507] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n622
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:95056] 224 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:95056] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n627
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:95615] 399 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:95615] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n628
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:96170] 575 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:96170] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n628
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:96710] 624 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:96710] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n640
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:97252] 865 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:97252] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[uc2n621.localdomain:97252] 34 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n653
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:97808] 1599 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:97808] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n834
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:98349] 2144 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:98349] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[uc2n621.localdomain:98349] 355 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:98891] 3 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:98891] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:99422] 15 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:99422] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:99715] 24 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:99715] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:100052] 63 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:100052] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n622
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:100624] 99 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:100624] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:101192] 255 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:101192] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n627
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:101741] 399 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:101741] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n626
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:102293] 624 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:102293] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n626
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:102840] 1023 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:102840] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n628
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:103393] 1599 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:103393] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n834
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:103928] 1925 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:103928] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[uc2n621.localdomain:103928] 574 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:104472] 3 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:104472] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:105255] 15 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:105255] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:105627] 24 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:105627] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:106013] 63 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:106013] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n621
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:106592] 99 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:106592] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n627
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:107176] 399 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:107176] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n624
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:107730] 624 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:107730] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n626
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:108286] 1599 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:108286] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           uc2n834
+  Local device:         mlx5_2
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+[uc2n621.localdomain:108832] 1602 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+[uc2n621.localdomain:108832] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[uc2n621.localdomain:108832] 897 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port

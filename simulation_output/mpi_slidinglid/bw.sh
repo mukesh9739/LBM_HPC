@@ -1,8 +1,8 @@
-##!/bin/bash
+#!/bin/bash
 #SBATCH --nodes=41
-#SBATCH --time=08:00:00
-#SBATCH --partition=multiple
-#SBATCH --ntasks-per-node=40
+#SBATCH --time=01:45:00
+#SBATCH --partition=multiple_il
+#SBATCH --ntasks-per-node=64
 #SBATCH --output=test.out
 #SBATCH --error=test.err
 echo "Loading Python module and mpi module"
@@ -11,10 +11,11 @@ module load mpi/openmpi/4.1
 module list
 
 steps=10000
+echo -e "mukesh"
 echo -e "lattices\tdecomp\tsteps\tSECONDS\tMLUPS"
 for lattices in $(seq 200 200 1000);
 do
-    for((decomp=2;decomp<=40;decomp++));
+    for((decomp=2;decomp<=50;decomp++));
     do
         if [ $(($lattices % $decomp)) -eq 0 ]; 
         then
@@ -25,5 +26,4 @@ do
         fi
     done
 done
-
 
